@@ -9,3 +9,12 @@ MonsterListView
 ![](MonsterListView/MonsterListView.PNG)
 
 -- --
+
+
+-- --
+
+MonsterListView
+
+![](MonsterHologramProgressBar/MonsterHologramProgressBar.PNG)
+
+-- --
